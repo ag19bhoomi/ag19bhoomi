@@ -1,6 +1,5 @@
 # Hello Fellow Coders! 👋 
 
-Welcome to my GitHub profile! <br>
 I'm Bhoomi, a passionate Computer Science student currently in my 2nd semester of B.Tech.<br>
 Below, you'll get a glimpse into my journey, skills and aspirations as a coder.
 

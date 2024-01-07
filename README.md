@@ -18,7 +18,7 @@ Below, you'll get a glimpse into my journey, skills and aspirations as a coder.
 - 🌐 Dedicated to continuous learning, aiming to make meaningful contributions to open source and the tech community. 
 
 ## Get in Touch 
-- 📫 Connect with me on [LinkedIn](www.linkedin.com/in/bhoomi-agrawal) for professional networking and collaboration.
+- 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/bhoomi-agrawal-869a1428b/) for professional networking and collaboration.
 - 📧 Feel free to drop me an [Email](bhoomiagrawal175@gmail.com). 
 
 ## Let's Code Together!

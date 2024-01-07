@@ -19,7 +19,7 @@ Below, you'll get a glimpse into my journey, skills and aspirations as a coder.
 
 ## Get in Touch 
 - 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/bhoomi-agrawal-869a1428b/) for professional networking and collaboration.
-- 📧 Feel free to drop me an [Email](bhoomiagrawal175@gmail.com). 
+- 📧 Feel free to drop me an [Email](mailto:bhoomiagrawal175@gmail.com). 
 
 ## Let's Code Together!
 I'm excited about the coding adventures ahead and look forward to connecting with fellow developers. <br>

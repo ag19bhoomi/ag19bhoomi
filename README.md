@@ -23,7 +23,7 @@ I'm Bhoomi, a passionate Computer Science student currently in my 2nd year of B.
 ## Get in Touch
 
 📫 Connect with me on [LinkedIn](https://www.linkedin.com) for professional networking and collaboration.  
-📧 Feel free to drop me an Email at [your-email@example.com](mailto:your-email@example.com).  
+📧 Feel free to drop me an Email at [Mail](mailto:bhoomiagrawal175@gmail.com).  
 
 ## Let's Code Together!
 
